@@ -1,0 +1,108 @@
+1154481189 com.thoughtworks:dependency-demo-app:jar:0.0.1-SNAPSHOT	
+							
+1003663195 org.springframework.boot:spring-boot-starter-web:jar:1.5.4.RELEASE:compile 
+
+
+621432843 org.springframework.boot:spring-boot-starter:jar:1.5.4.RELEASE:compile
+
+1977189075 org.springframework.boot:spring-boot:jar:1.5.4.RELEASE:compile
+  
+797224183 org.springframework.boot:spring-boot-autoconfigure:jar:1.5.4.RELEASE:compile
+
+       
+689140691 org.springframework.boot:spring-boot-starter-logging:jar:1.5.4.RELEASE:compile
+          
+925672150 org.slf4j:jcl-over-slf4j:jar:1.7.25:compile
+
+839180856 org.slf4j:jul-to-slf4j:jar:1.7.25:compile
+      
+955061147 org.slf4j:log4j-over-slf4j:jar:1.7.25:compile
+
+            
+173175486 org.springframework:spring-core:jar:4.3.9.RELEASE:compile
+
+                  
+1488608048 org.yaml:snakeyaml:jar:1.17:runtime   
+                   
+1304065853 org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.4.RELEASE:compile
+           
+496751834 org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.15:compile                                 
+          
+80052821 org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.15:compile            
+                                    
+246168102 org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.15:compile                            
+             
+280078161 org.springframework:spring-web:jar:4.3.9.RELEASE:compile                                                                                                                                                                                  
+           
+1406114969 org.springframework:spring-aop:jar:4.3.9.RELEASE:compile                                                                                                               
+2066770847 org.springframework:spring-beans:jar:4.3.9.RELEASE:compile
+337777621 org.springframework:spring-context:jar:4.3.9.RELEASE:compile
+154449199 org.springframework:spring-webmvc:jar:4.3.9.RELEASE:compile
+640736196 org.springframework:spring-expression:jar:4.3.9.RELEASE:compile
+1587818510 junit:junit:jar:3.8.1:test
+1511799988 org.quartz-scheduler:quartz:jar:2.0.1:compile
+1991075605 javax.transaction:jta:jar:1.1:compile
+1449360639 c3p0:c3p0:jar:0.9.1.1:compile
+691540605 com.googlecode.json-simple:json-simple:jar:1.1.1:compile
+310014578 com.google.guava:guava:jar:29.0-jre:compile
+267533031 com.google.guava:failureaccess:jar:1.0.1:compile
+1111173986 com.google.guava:listenablefuture:jar:9999.0-empty-to-avoid-conflict-with-guava:compile
+729375394 com.google.code.findbugs:jsr305:jar:3.0.2:compile
+1792109661 org.checkerframework:checker-qual:jar:2.11.1:compile
+1961510626 com.google.errorprone:error_prone_annotations:jar:2.3.4:compile
+1871778598 com.google.j2objc:j2objc-annotations:jar:1.3:compile
+253558788 com.fasterxml.jackson.core:jackson-databind:jar:2.8.7:compile
+1850680894 com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0:compile
+1219797059 com.fasterxml.jackson.core:jackson-core:jar:2.8.8:compile
+794526288 ch.qos.logback:logback-classic:jar:1.2.3:compile
+1210165919 ch.qos.logback:logback-core:jar:1.1.11:compile
+1598561139 net.jcip:jcip-annotations:jar:1.0:compile
+840109665 xalan:xalan:jar:2.7.2:compile
+1093223281 xalan:serializer:jar:2.7.2:compile
+77163673 xml-apis:xml-apis:jar:1.4.01:compile
+462777594 org.slf4j:slf4j-simple:jar:1.7.13:compile
+828312047 org.slf4j:slf4j-api:jar:1.7.13:compile
+#
+621432843 1977189075 compile
+621432843 797224183 compile
+689140691 925672150 compile
+689140691 839180856 compile
+689140691 955061147 compile
+621432843 689140691 compile
+621432843 173175486 compile
+621432843 1488608048 runtime
+1003663195 621432843 compile
+1304065853 496751834 compile
+1304065853 80052821 compile
+1304065853 246168102 compile
+1003663195 1304065853 compile
+280078161 1406114969 compile
+280078161 2066770847 compile
+280078161 337777621 compile
+1003663195 280078161 compile
+154449199 640736196 compile
+1003663195 154449199 compile
+1154481189 1003663195 compile
+1154481189 1587818510 test
+1511799988 1991075605 compile
+1511799988 1449360639 compile
+1154481189 1511799988 compile
+1154481189 691540605 compile
+310014578 267533031 compile
+310014578 1111173986 compile
+310014578 729375394 compile
+310014578 1792109661 compile
+310014578 1961510626 compile
+310014578 1871778598 compile
+1154481189 310014578 compile
+253558788 1850680894 compile
+253558788 1219797059 compile
+1154481189 253558788 compile
+794526288 1210165919 compile
+1154481189 794526288 compile
+1154481189 1598561139 compile
+1093223281 77163673 compile
+840109665 1093223281 compile
+1154481189 840109665 compile
+1154481189 462777594 compile
+1154481189 828312047 compile
